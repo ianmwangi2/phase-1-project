@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Drink Recipes</title>
+</head>
+<body>
+    <div id="header">
+        <h1>COCKTAIL RECIPE</h1>
+    </div>
+
+    <div id="search-bar">
+        <input type="text" id="search-bar" placeholder="Search for a drink...">
+    </div>
+
+  <div id="drink-list"></div>
+  
+  <form id="add-drink-form">
+    <input type="text" id="new-drink-name" placeholder="Drink Name" required>
+    <input type="text" id="new-drink-category" placeholder="Category" required>
+    <textarea id="new-drink-instructions" placeholder="Instructions" required></textarea>
+    <input type="url" id="new-drink-image" placeholder="Image URL" required>
+    <button type="submit" id="add-button">Add Drink</button>
+  </form>
+
+  <script src="script/script.js"></script>
+</body>
+</html>

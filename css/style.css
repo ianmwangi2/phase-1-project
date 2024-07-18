@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+body {
+    font-size: xx-large;
+    padding: 20px;
+    background-image: url('https://media.istockphoto.com/id/1302161390/photo/two-cocktails-at-sunset.jpg?s=612x612&w=0&k=20&c=LyILJer_FU4CCcJh7AGoTST0ZQhmOInKTqEsQx7u5CQ=');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+}
+
+h3 {
+    font-family: "Playfair Display", serif;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+p {
+    text-align: center;
+}
+
+#search-bar {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#drink-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 80px;
+    margin-top: 50px;
+    padding: 20px;
+    justify-content: center;
+}
+
+.drink-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-image: url('https://media.istockphoto.com/id/660732700/photo/the-rose-exotic-cocktail-and-fruit-on-blue.jpg?s=612x612&w=0&k=20&c=fqa-jR9iCl08BBtEwPXP08OG-UndI0bobo52sOX2jjs=');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.drink-item img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+#add-drink-form {
+    border: 2px solid #000;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px 0;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#add-drink-form input[type="text"], #add-drink-form input[type="url"], #add-drink-form button, #add-drink-form textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: white;
+    color: black;
+    border: none;
+    cursor: pointer;
+    margin: 5px 0;
+}
+
+button:hover {
+    background-color: gray;
+}

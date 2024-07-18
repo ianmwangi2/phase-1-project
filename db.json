@@ -1,0 +1,227 @@
+{
+  "drinks": [
+    {
+      "id": "1",
+      "name": "Mojito",
+      "instructions": "Muddle mint leaves with sugar and lime juice. Add a splash of soda water and fill the glass with ice. Pour the rum over the ice, and fill the glass with soda water. Garnish with the lime wedge and mint.",
+      "ingredients": [
+        "Mint leaves",
+        "Sugar",
+        "Lime juice",
+        "Soda water",
+        "White rum",
+        "Ice",
+        "Lime wedge"
+      ],
+      "image": "https://media.istockphoto.com/id/1164929603/photo/fresh-mojito-cocktail-with-lime-and-mint-in-glass-on-concrete-background-cold-refreshing-drink.webp?b=1&s=170667a&w=0&k=20&c=uXBSg2DIc_GGiUSwoLzEtXgQEka7HdnEBlRjcOdI_Lw="
+    },
+    {
+      "id": "2",
+      "name": "Margarita",
+      "instructions": "Rub the rim of the glass with the lime slice to make the salt stick to it. Take care to moisten only the outer rim and sprinkle the salt on it. The salt should present to the lips of the imbiber and never mix into the cocktail. Shake the other ingredients with ice, then carefully pour into the glass.",
+      "ingredients": [
+        "Tequila",
+        "Triple sec",
+        "Lime juice",
+        "Salt",
+        "Ice",
+        "Lime slice"
+      ],
+      "image": "https://media.istockphoto.com/id/957892610/photo/alcoholic-lime-margarita-with-tequila.webp?b=1&s=170667a&w=0&k=20&c=v-QdEVohKt7ryiHLnFD-B4EdfFMyaQCOGC_XiVcBPwA="
+    },
+    {
+      "id": "3",
+      "name": "Old Fashioned",
+      "instructions": "Place sugar cube in old-fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved. Fill the glass with ice cubes and add whiskey. Garnish with orange slice and a cocktail cherry.",
+      "ingredients": [
+        "Sugar cube",
+        "Angostura bitters",
+        "Water",
+        "Bourbon or rye whiskey",
+        "Orange slice",
+        "Cocktail cherry",
+        "Ice"
+      ],
+      "image": "https://media.istockphoto.com/id/181880760/photo/old-fashioned-cocktail-in-a-vintage-bar.jpg?s=612x612&w=0&k=20&c=sYKrULnWxSXZgdmPG0G5lUA6yZc430W8eouIVhvZ5YM="
+    },
+    {
+      "id": "4",
+      "name": "Piña Colada",
+      "instructions": "Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve.",
+      "ingredients": [
+        "White rum",
+        "Coconut cream",
+        "Pineapple juice",
+        "Pineapple slice",
+        "Maraschino cherry",
+        "Crushed ice"
+      ],
+      "image": "https://media.istockphoto.com/id/1490635186/photo/cocktail-pina-colada-pina-colada-refreshing-summer-alcoholic-cocktail-with-coconut-milk-and.jpg?s=612x612&w=0&k=20&c=XYfajW9XHg-hgCycsWNGSTySI650ysjQ9x0pyDrg9R0="
+    },
+    {
+      "id": "5",
+      "name": "Cosmopolitan",
+      "instructions": "Add all ingredients into a cocktail shaker filled with ice. Shake well and strain into a large cocktail glass. Garnish with a lime wheel.",
+      "ingredients": [
+        "Vodka",
+        "Triple sec",
+        "Cranberry juice",
+        "Lime juice",
+        "Ice",
+        "Lime wheel"
+      ],
+      "image": "https://media.istockphoto.com/id/534053952/photo/barman-preparing-and-pouring-red-cocktail-in-martini-glass.jpg?s=612x612&w=0&k=20&c=LU56zClwiLm6NrXJC6GC4zp3etEtvuJqiFZhMPlfy0A="
+    },
+    {
+      "id": "6",
+      "name": "Martini",
+      "instructions": "Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
+      "ingredients": [
+        "Gin",
+        "Dry vermouth",
+        "Ice",
+        "Lemon peel or olive"
+      ],
+      "image": "https://media.istockphoto.com/id/1444919966/photo/martini-with-green-olives-and-lemon.jpg?s=612x612&w=0&k=20&c=s7PCTgsXlNrByrtYZpOCaFSqacyi3by9GaVG8qWEwMw="
+    },
+    {
+      "id": "7",
+      "name": "Whiskey Sour",
+      "instructions": "Shake with ice. Strain into ice-filled old-fashioned glass to serve 'on the rocks'. Garnish with cherry and half-slice of lemon.",
+      "ingredients": [
+        "Bourbon whiskey",
+        "Lemon juice",
+        "Sugar",
+        "Ice",
+        "Maraschino cherry",
+        "Lemon"
+      ],
+      "image": "https://media.istockphoto.com/id/180814820/photo/old-fashioned-cocktail-in-a-vintage-bar.jpg?s=612x612&w=0&k=20&c=nrd_8BJ4RANkwhJ7EEzqP-b6unYRd4mBv6dz_QaYvrA="
+    },
+    {
+      "id": "8",
+      "name": "Mai Tai",
+      "instructions": "Shake all ingredients with ice. Strain into old-fashioned glass over crushed ice. Garnish with a slice of pineapple and a cherry.",
+      "ingredients": [
+        "White rum",
+        "Dark rum",
+        "Orange curaçao",
+        "Orgeat syrup",
+        "Lime juice",
+        "Crushed ice",
+        "Pineapple slice",
+        "Cherry"
+      ],
+      "image": "https://media.istockphoto.com/id/183815029/photo/vacation-mai-tai.jpg?s=612x612&w=0&k=20&c=ttQNIAtBTeOLS75cDMq0hZ0NYh96lk8u6W24UM9mvto="
+    },
+    {
+      "id": "9",
+      "name": "Negroni",
+      "instructions": "Stir into glass over ice, garnish and serve.",
+      "ingredients": [
+        "Gin",
+        "Sweet vermouth",
+        "Campari",
+        "Orange peel",
+        "Ice"
+      ],
+      "image": "https://media.istockphoto.com/id/1472262385/photo/negroni-cocktail-in-crystal-glasses-with-orange-slice-and-fresh-raw-oranges-on-chopping-board.jpg?s=612x612&w=0&k=20&c=y--3vOfDGzb5i84Ok6sv6l8YLDjhvL5nchMp-GLb-5c="
+    },
+    {
+      "id": "10",
+      "name": "Daiquiri",
+      "instructions": "Shake all ingredients with ice, strain into chilled cocktail glass.",
+      "ingredients": [
+        "White rum",
+        "Lime juice",
+        "Simple syrup",
+        "Ice"
+      ],
+      "image": "https://media.istockphoto.com/id/1470740373/photo/margarita-cocktail-with-lime.jpg?s=612x612&w=0&k=20&c=U-k6E4mlstINRd4M0bFXEUhJcyfAAKKlZrxsfCH3_KU="
+    },
+    {
+      "id": "11",
+      "name": "Gin and Tonic",
+      "instructions": "Fill a glass with ice, add gin and tonic water. Stir gently and garnish with a lime wedge.",
+      "ingredients": [
+        "Gin",
+        "Tonic water",
+        "Ice",
+        "Lime wedge"
+      ],
+      "image": "https://media.istockphoto.com/id/1464223749/photo/gin-tonic-cocktail-with-dry-gin-rosemary-tonic-lime-and-ice-cubes-in-wine-glass-black-bar.jpg?s=612x612&w=0&k=20&c=2jxwyGRiHS1d9-u1iPSRPhPMvT_ZBJJ1OAZ1K7yDktY="
+    },
+    {
+      "id": "12",
+      "name": "Bloody Mary",
+      "instructions": "Stir all ingredients with ice, strain into a highball glass filled with ice. Garnish with a celery stalk and a lime wedge.",
+      "ingredients": [
+        "Vodka",
+        "Tomato juice",
+        "Lemon juice",
+        "Worcestershire sauce",
+        "Tabasco sauce",
+        "Salt",
+        "Pepper",
+        "Ice",
+        "Celery stalk",
+        "Lime wedge"
+      ],
+      "image": "https://media.istockphoto.com/id/678843624/photo/homemade-michelada-with-beer-and-tomato-juice.jpg?s=612x612&w=0&k=20&c=y_TkNOE0A0-ylCL86i0d7xOhLL_jIyA9VeGIDiCD7BI="
+    },
+    {
+      "id": "13",
+      "name": "Manhattan",
+      "instructions": "Stir all ingredients with ice, strain into a chilled cocktail glass. Garnish with a cherry.",
+      "ingredients": [
+        "Rye whiskey",
+        "Sweet vermouth",
+        "Angostura bitters",
+        "Ice",
+        "Cherry"
+      ],
+      "image": "https://media.istockphoto.com/id/1813981285/photo/manhattan-cocktail-in-crystal-coup-glass.jpg?s=612x612&w=0&k=20&c=q52F_jpJ3bTLYVangqehL4xkjRownvfDGkx5wHQlbTM="
+    },
+    {
+      "id": "14",
+      "name": "Tom Collins",
+      "instructions": "Shake all ingredients with ice, strain into a Collins glass filled with ice. Top with soda water and garnish with a cherry and lemon slice.",
+      "ingredients": [
+        "Gin",
+        "Lemon juice",
+        "Simple syrup",
+        "Soda water",
+        "Ice",
+        "Cherry",
+        "Lemon slice"
+      ],
+      "image": "https://media.istockphoto.com/id/185106020/photo/cocktails-collection-tom-collins.jpg?s=612x612&w=0&k=20&c=tvQNe3r5wf4XkuMlHXr6Z3YPjg58I0eX08dcRX3Tl9Q="
+    },
+    {
+      "id": "15",
+      "name": "Moscow Mules",
+      "instructions": "Fill a mug with ice, add vodka and lime juice, and top with ginger beer. Stir gently and garnish with a lime slice.",
+      "ingredients": [
+        "Vodka",
+        "Lime juice",
+        "Ginger beer",
+        "Ice",
+        "Lime slice"
+      ],
+      "image": "https://media.istockphoto.com/id/1400940069/photo/cocktail-with-ice-in-a-copper-mug-on-a-black-background-splashing-moscow-mule-alcoholic.jpg?s=612x612&w=0&k=20&c=ZN-K5F-R9RlO1gMELGg4kv8qdz0ElUITjTboPrHjZM0="
+    },
+    {
+      "id": "16",
+      "name": "Caipirinha",
+      "instructions": "Muddle lime and sugar in a glass. Fill the glass with ice and add the cachaça. Stir well and garnish with a lime slice.",
+      "ingredients": [
+        "Lime",
+        "Sugar",
+        "Cachaça",
+        "Ice",
+        "Lime slice"
+      ],
+      "image": "https://media.istockphoto.com/id/1227433714/photo/caipirinha-cocktail-close-up-traditional-brazilian-cocktail-made-with-cacha%C3%A7a-sugar-and-lemon.jpg?s=612x612&w=0&k=20&c=gd6w9M8HTCafzQjYifsHaaz_Co-1fiTJy4jyQe3OJ60="
+    }
+  ]
+}
