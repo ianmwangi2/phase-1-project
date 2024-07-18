@@ -32,7 +32,7 @@ The user should be able to perform simple tasks on the web-page and the page sho
 3. Run live server to view the created web-page
 
 NOTE: You will not run the JSON Server on vscode because it has been deployed as an API using vercel
-Here is the deployed JSON server:
+Here is the deployed server:
 [Link](https://phase-1-project-backend.vercel.app/drinks)
 
 ### How the webpage works
@@ -42,3 +42,9 @@ Here is the deployed JSON server:
 - Click the edit button of the cocktail to enter new details of the cocktail.
 The delete button removes a cocktail from the list when the button is clicked.
 
+#### Deployed link from vercel
+Here is the web-pages deployed link:
+[Live link](https://phase-1-project-sandy.vercel.app/)
+
+### Authors 
+[Ian Mwangi](https://github.com/ianmwangi2)
