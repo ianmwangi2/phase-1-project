@@ -2,7 +2,7 @@
 
 ## COCKTAIL RECIPE
 ### Description
-This is a single pag web application that allows users to view,search, edit and delete cocktail recipes. It communicates with a JSON server to fetch and manage cocktail data
+This is a single pag web application that allows users to view,search, edit, add and delete cocktail recipes. It communicates with a JSON server to fetch and manage cocktail data
 
 ## PLANNING
 The user should be able to perform simple tasks on the web-page and the page should be responsive.
